@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**CarlosCatari/CarlosCatari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN1YWJ6bDV1c3RnOWt4OXY3OHA0cmZ0cTcweTRhODZxamZ4ODRhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="200">
+  <h1>Hola,✌️ Soy Carlos Catari</h1>
+  <h3>Mi profundo interés y entusiasmo por la tecnología me impulsaron a adentrarme en este ámbito. Actualmente estoy siguiendo una carrera técnica en Desarrollo de Sistemas de Información en Perú. Mi intención es continuar adquiriendo conocimientos y evolucionando en este apasionante universo de la programación. </h3>
+</div>
+<div  align="left">
+  <h3>⚒ Lenguajesy Herramientas::</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" title="VSCode" alt="VSCode" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40">
+</div>
