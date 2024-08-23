@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN1YWJ6bDV1c3RnOWt4OXY3OHA0cmZ0cTcweTRhODZxamZ4ODRhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="200">
   <h1>Hola, Soy Carlos __✒️</h1>
   <h3>Aunque soy nuevo en el campo profesional de la programación, he estado dedicando tiempo a perfeccionar mis habilidades en el ámbito del frontend. Actualmente estoy aplicando a una carrera técnica en Desarrollo de Sistemas de Información.</h3>
 </div>
