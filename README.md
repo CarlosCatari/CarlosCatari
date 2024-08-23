@@ -6,10 +6,8 @@
 <div  align="center">
   <h3>🛡️ Lenguajes:</h3>
   
-
-  
-  <div style="margin: 0; display: flex; height: 100vh;">
-    <div style="flex: 1; display: flex; justify-content: center; align-items: center; border: 1px solid #000;">
+  <div style="margin: 0; display: flex;">
+    <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="45" height="45">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="45" height="45">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="45" height="45">
@@ -17,7 +15,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="45" height="45">
     </div>
-    <div style="flex: 1; display: flex; justify-content: center; align-items: center; border: 1px solid #000;">
+    <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="Mysql" width="45" height="45">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="45" height="45">
         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="45" height="45">
