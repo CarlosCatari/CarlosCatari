@@ -22,7 +22,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="Git" width="45" height="45">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="github" width="45" height="45">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="vercel" width="45" height="45"">
-
-  
-  
+   <hr>
+  <h3>⚙️ GitHub Analytics</h3>
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CarlosCatari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarlosCatari&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 </div>
+
+
