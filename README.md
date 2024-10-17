@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hola, Soy Carlos __✒️</h1>
-  <h3>Aunque soy nuevo en el campo profesional de la programación, he estado dedicando tiempo a perfeccionar mis habilidades en el ámbito del frontend. Actualmente estoy aplicando a una carrera técnica en Desarrollo de Sistemas de Información.</h3>
+  <h3>Aunque soy nuevo en el campo profesional de la programación, he estado dedicando tiempo a perfeccionar mis habilidades en el ámbito del backend. Actualmente estoy aplicando a una carrera técnica en Desarrollo de Sistemas de Información.</h3>
 </div>
 <div  align="center">
   <h3>🛡️ Lenguajes:</h3>
